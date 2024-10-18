@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, here's a little bit of information about me 👋
 
 # Martin Alegria
 
@@ -39,9 +39,9 @@ My goal is to contribute to the development of open source software, teach the c
 
 ### Educational Experience
 
-- Systems Engineer, University of Cauca, Colombia.
-- Specialization in IT Solutions Development** **Master in Data Science
-- Master in Data Science**, Universidad ICESI
+- **Systems Engineer**, University of Cauca, Colombia.
+- **Specialization in IT Solutions Development**, University of Cauca, Colombia.
+- **Master in Data Science**, Universidad ICESI, Colombia
 
 ---
 
