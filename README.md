@@ -12,10 +12,10 @@ My specialty focuses on machine learning, deep learning, and generative intellig
 
 I have experience working with a broad set of technologies and tools, including:
 
-- **Languages and Frameworks:** Python, JavaScript, .NET, React, PHP, Bootstrap.
-- Machine Learning and Deep Learning:** PyTorch, TensorFlow, Keras
-- Databases and Data Warehousing:** Oracle, SQL Server, ODI, Data Lakes, Data Warehouses
-- Data Visualization:** Oracle Data Visualization
+- **Languages and Frameworks:** Python, JavaScript, .NET, React, PHP, Bootstrap, HTML, ...
+- **Machine Learning and Deep Learning:** PyTorch, TensorFlow, Keras, ...
+- **Databases and Data Warehousing:** Oracle, SQL Server, ODI, Data Lakes, Data Warehouses, ...
+- **Data Visualization:** Oracle Data Visualization, Power BI, ...
 
 ---
 
