@@ -19,43 +19,6 @@ I have experience working with a broad set of technologies and tools, including:
 
 ---
 
-### Projects of Interest
-
-I am passionate about contributing to open source software and developing innovative solutions. Some of the types of projects I am interested in are:
-
-- Open source projects
-- Web applications
-- Machine learning, deep learning and generative intelligence models
-
----
-
-### Vision and Motivation
-
-My goal is to contribute to the development of open source software, teach the community and continue to develop solutions that innovate in different sectors. I strongly believe in the power of technology to transform industries and improve people's lives, and I enjoy sharing my knowledge with others.
-
----
-
-### Educational Experience
-
-- **Systems Engineer**, University of Cauca, Colombia.
-- **Specialization in IT Solutions Development**, University of Cauca, Colombia.
-- **Master in Data Science**, Universidad ICESI, Colombia
-
----
-
-### Publications
-
-- International Publication: [Multidimensional analysis model for a document warehouse that includes textual measures](https://www.sciencedirect.com/science/article/abs/pii/S0167923615000287)
-
----
-
-### Contact
-
-- [LinkedIn: www.linkedin.com/in/martinsys](https://www.linkedin.com/in/martinsys)
-
----
-
-
 <!--
 **martinsys/martinsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
