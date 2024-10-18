@@ -1,7 +1,5 @@
 ## Hi there, here's a little bit of information about me 👋
 
-# Martin Alegria
-
 #### Systems Engineer | Full-Stack Developer | Software Architect | Data Scientist
 
 I am a Systems Engineer from Universidad del Cauca, with a specialization in software development and a Master in Data Science from Universidad ICESI. I have over 20 years of experience in the private sector, working in a variety of roles including Senior Developer (Full-Stack), Software Architect, Project Manager, Teacher, Database Administrator (SQL Server, Oracle), Business Development, Business Analyst, and Data Scientist Manager. 
